@@ -1,2 +1,2 @@
-# segmentacion-mastocitos-imgproc
-Proyecto final de la materia de Reconocimiento de Patrones donde se realizó un programa en python para realizar el analisis y segmentación de mastocitos en imágenes de patología veterinaria.
+# Analisis y segmentación automática de mastocitos
+#### Programa de aprendizaje automático y procesamiento de imagenes donde se realiza el analisis y la segmentación automática de los mastocitos (célula cancerígena) presentes en muestras tumorales caninas.
